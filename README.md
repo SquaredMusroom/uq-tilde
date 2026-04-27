@@ -10,6 +10,4 @@ And I don't want to use most of OOP's rules in this language because you can cal
 | idea | description | status |
 |------|-------------|--------|
 | link | link[^1]    | idk    |
-|------|-------------|--------|
 | QSLN | QSLN[^2]    | idk    |
-|------|-------------|--------|
