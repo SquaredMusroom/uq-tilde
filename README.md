@@ -1,6 +1,7 @@
 <h5>uq~</h5>
 
-*BTW this is just a draft so don't expect anything*
+> [!IMPORTANT]
+> *BTW this is just a draft so don't expect anything*
 
 ---
 
@@ -13,11 +14,14 @@ And I don't want to use most of OOP's rules in this language because you can cal
 | QSLN | QSLN[^2]    | idk    |
 | Cint | Cint[^3]    | idk    |
 | FIOL | FIOL[^4]    | idk    |
+| Rgx  | Rgx[^5]     | idk    |
 
 Roadmap:
-- Finish this  [ ]
-- Write syntax [ ]
-- Write translator/compiler [ ]
+- [ ] make normal documentation
+- [ ] finish this
+- [ ] write syntax
+- [ ] finish documentation
+- [ ] write translator/compiler
 
 Abbreviations are great so there will be many of them.<br> The main point is that I don't want long lines in my language.<br> And if you ever written in c# you will understand what i mean by that.
 
@@ -31,3 +35,4 @@ Abbreviations are great so there will be many of them.<br> The main point is tha
                 writer.Write([something]);
             }
         }`<br> Is very convenient. <br> And if you didn't know that this funny thing exists that's totaly fine. 
+[^5]: Something like regex. Recently I heard that c#'s LINQ is basically regex and guess what I heard that regex is cool and that it is used in some huge databases or something like this. 
