@@ -10,11 +10,11 @@ And I don't want to use most of OOP's rules in this language because you can cal
 
 | idea | description | status |
 |------|-------------|--------|
-| link | link[^1]    | idk    |
-| QSLN | QSLN[^2]    | idk    |
-| Cint | Cint[^3]    | idk    |
-| FIOL | FIOL[^4]    | idk    |
-| Rgx  | Rgx[^5]     | idk    |
+| link | [link](docs/link.md)    | idk    |
+| QSLN | [QSLN](docs/QSLN.md)    | idk    |
+| Cint | Cint[^1]    | idk    |
+| FIOL | FIOL[^2]    | idk    |
+| Rgx  | Rgx[^3]     | idk    |
 
 Roadmap:
 - [ ] make normal documentation
@@ -25,14 +25,13 @@ Roadmap:
 
 Abbreviations are great so there will be many of them.<br> The main point is that I don't want long lines in my language.<br> And if you ever written in c# you will understand what i mean by that.
 
-[^1]: Array that will have a link to another array.<br> It should look like this:<br> `int s;` <br> `link u = s` <br> `u = 92` <br> And this will be identical to this: <br> `int s = 92`
-[^2]: Questionable standart libraries names. I mean why no. Don't you think that typing `using uq~.chacha` is much greater than typing `using system.[library name]`.
-[^3]: Custom int. Int with user defined amount of memory. Implementation is kinda hard because settings for ints doesn't really exist in c# and c++(Or if there is some I haven't seen them). 
-[^4]: File input / output library(of course questionable name will be provided). C#'s IO library is ehm... lets say it's a little bit weird.<br> I mean may be I'm wrong but I don't think that typing: <br> `using (var stream = File.Open(fileName, FileMode.Create))
+
+[^1]: Custom int. Int with user defined amount of memory. Implementation is kinda hard because settings for ints doesn't really exist in c# and c++(Or if there is some I haven't seen them). 
+[^2]: File input / output library(of course questionable name will be provided). C#'s IO library is ehm... lets say it's a little bit weird.<br> I mean may be I'm wrong but I don't think that typing: <br> `using (var stream = File.Open(fileName, FileMode.Create))
         {
             using (var writer = new BinaryWriter(stream, Encoding.UTF8, false))
             {
                 writer.Write([something]);
             }
         }`<br> Is very convenient. <br> And if you didn't know that this funny thing exists that's totaly fine. 
-[^5]: Something like regex. Recently I heard that c#'s LINQ is basically regex and guess what I heard that regex is cool and that it is used in some huge databases or something like this. 
+[^3]: Something like regex. Recently I heard that c#'s LINQ is basically regex and guess what I heard that regex is cool and that it is used in some huge databases or something like this. 
