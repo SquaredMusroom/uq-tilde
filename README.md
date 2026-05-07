@@ -3,6 +3,9 @@
 > [!IMPORTANT]
 > *BTW this is just a draft so don't expect anything*
 
+> [!NOTE]
+> *I want to finish this and because of that next commit isn't near. That's because I want clear commit history. Until then my dear moonshiners*
+
 ---
 
 So I want to make a programing language with syntax similar to c# and c++.<br>
