@@ -39,11 +39,11 @@ Abbreviations are great so there will be many of them.<br> The main point is tha
 ---
 
 # The walk
-## The walk
-### the walk
+*The walk*
+__the walk__
 
 ![OMG is dat the walk](The-Walk.webp)
 
-#### the wolk
+~the wolk~
 
 took it from this [post](https://www.youtube.com/post/UgkxQb4IDosd_El18V4Yf8prZamL_4YSQ6Um).

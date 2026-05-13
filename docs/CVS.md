@@ -20,12 +20,12 @@ oh by the way do you remember what I said about double beeing float. Here it is:
 of course if you think that double should take 64 bits.
 
 and here is typical int64:\
-    `int#64 q;`\
+    `int#64 q;`
 
 But there is a problem. How do we set size for strings. Well I don't know maybe we can just agree that this:\
     `string#~ q;`\
 is identical to this:\
-    `string q[] = char[~];`\
+    `string q[] = char[~];`
 
 > [!NOTE]
 > man who will even use this?
