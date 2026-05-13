@@ -3,9 +3,9 @@ I'll use ~ character for some random value.
 
 ### Actual list
 
-int - standard int32.
-    `int q = ~;
-    int q[] = int[~];
+int - standard int32.\
+    `int q = ~;\
+    int q[] = int[~];\
     int q[] = {~,~,~,~};`
 
 float - just float. Also can be double see [CVS](docs/CVS.md).
