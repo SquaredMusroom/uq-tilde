@@ -1,12 +1,12 @@
-##Questionable standart libraries names
+## Questionable standart libraries names
 
 ---
 
-#Description
+# Description
 
 Basically standard libraries will have some funny names that are in most cases somehow related to alcohol.
 
-#Examples
+# Examples
 
 `using uq~.chacha`\
 `using uq~.whiskey`\

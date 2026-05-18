@@ -44,6 +44,11 @@ enum - that thing for making types.\
     `q u[] = q[~];`\
     `q u[] = {q.~,q.~,q.~,q.~};`
 
+var - anything.\
+    `var q = ~;`\
+    `var q[] = var[~];`\
+    `var q[] = {~,~,~,~};`
+
 ---
 
 ### intresting things

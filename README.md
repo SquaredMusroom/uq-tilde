@@ -3,13 +3,13 @@
 > [!IMPORTANT]
 > *BTW this is just a draft so don't expect anything*
 
-> [!NOTE]
-> *I want to finish this and because of that next commit isn't near. That's because I want clear commit history. Until then my dear moonshiners*
-
 ---
 
 So I want to make a programing language with syntax similar to c# and c++.<br>
 And I don't want to use most of OOP's rules in this language because you can calmly live without them and they don't really look meaningful to me.<br>
+
+File extension will be .uqt (or .uq~ if it is possible).
+
 
 | idea | description | status |
 |------|-------------|--------|
@@ -36,14 +36,3 @@ Abbreviations are great so there will be many of them.<br> The main point is tha
             }
         }`<br> Is very convenient. <br> And if you didn't know that this funny thing exists that's totaly fine. 
 [^2]: Something like regex. Recently I heard that c#'s LINQ is basically regex and guess what I heard that regex is cool and that it is used in some huge databases or something like this. 
----
-
-# The walk
-*The walk*
-__the walk__
-
-![OMG is dat the walk](The-Walk.webp)
-
-~the wolk~
-
-took it from this [post](https://www.youtube.com/post/UgkxQb4IDosd_El18V4Yf8prZamL_4YSQ6Um).
